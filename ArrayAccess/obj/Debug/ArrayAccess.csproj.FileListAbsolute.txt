@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\bin\Debug\ArrayAccess.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\bin\Debug\ArrayAccess.exe
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\bin\Debug\ArrayAccess.pdb
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\obj\Debug\ArrayAccess.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\obj\Debug\ArrayAccess.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\obj\Debug\ArrayAccess.exe
+\\et-fileserver\staff\pawnol\Desktop\ArrayAccess\obj\Debug\ArrayAccess.pdb

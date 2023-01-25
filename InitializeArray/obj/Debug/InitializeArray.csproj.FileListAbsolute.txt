@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\bin\Debug\InitializeArray.exe.config
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\bin\Debug\InitializeArray.exe
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\bin\Debug\InitializeArray.pdb
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.exe
+\\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.pdb

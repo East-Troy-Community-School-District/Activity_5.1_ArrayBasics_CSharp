@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\bin\Debug\InitializerList.exe.config
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\bin\Debug\InitializerList.exe
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\bin\Debug\InitializerList.pdb
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\obj\Debug\InitializerList.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\obj\Debug\InitializerList.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\obj\Debug\InitializerList.exe
+\\et-fileserver\staff\pawnol\Desktop\InitializerList\obj\Debug\InitializerList.pdb
