@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\bin\Debug\StudentArrays.exe.config
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\bin\Debug\StudentArrays.exe
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\bin\Debug\StudentArrays.pdb
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\obj\Debug\StudentArrays.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\obj\Debug\StudentArrays.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\obj\Debug\StudentArrays.exe
+\\et-fileserver\staff\pawnol\Desktop\StudentArrays\obj\Debug\StudentArrays.pdb

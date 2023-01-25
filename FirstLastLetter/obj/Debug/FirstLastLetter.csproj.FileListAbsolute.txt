@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\bin\Debug\FirstLastLetter.exe.config
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\bin\Debug\FirstLastLetter.exe
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\bin\Debug\FirstLastLetter.pdb
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\obj\Debug\FirstLastLetter.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\obj\Debug\FirstLastLetter.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\obj\Debug\FirstLastLetter.exe
+\\et-fileserver\staff\pawnol\Desktop\FirstLastLetter\obj\Debug\FirstLastLetter.pdb
