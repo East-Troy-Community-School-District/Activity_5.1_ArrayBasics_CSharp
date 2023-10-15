@@ -1,7 +1,8 @@
 ﻿/*
  * First Last Letter
- * 1/25/2023
- * C#.NET I
+ * Pawelski
+ * 10/15/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Run the program and observe the output. Be prepared
