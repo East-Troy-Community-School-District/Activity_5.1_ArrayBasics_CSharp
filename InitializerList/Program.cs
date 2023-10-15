@@ -1,7 +1,8 @@
 ﻿/*
  * Initializer List
- * 1/25/2023
- * C#.NET I
+ * Pawelski
+ * 10/15/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Try running the program. Be prepared
