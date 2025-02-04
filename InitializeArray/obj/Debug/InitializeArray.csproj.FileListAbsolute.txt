@@ -5,3 +5,10 @@
 \\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.csproj.CoreCompileInputs.cache
 \\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.exe
 \\et-fileserver\staff\pawnol\Desktop\InitializeArray\obj\Debug\InitializeArray.pdb
+C:\Users\pawel\Desktop\InitializeArray\bin\Debug\InitializeArray.exe.config
+C:\Users\pawel\Desktop\InitializeArray\bin\Debug\InitializeArray.exe
+C:\Users\pawel\Desktop\InitializeArray\bin\Debug\InitializeArray.pdb
+C:\Users\pawel\Desktop\InitializeArray\obj\Debug\InitializeArray.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\InitializeArray\obj\Debug\InitializeArray.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\InitializeArray\obj\Debug\InitializeArray.exe
+C:\Users\pawel\Desktop\InitializeArray\obj\Debug\InitializeArray.pdb

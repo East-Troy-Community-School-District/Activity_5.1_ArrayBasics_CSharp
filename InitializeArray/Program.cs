@@ -50,38 +50,11 @@ namespace InitializeArray
          * These print the contents of the array such that
          * each element is seperated by a comma. Don't worry
          * if you don't understand them yet, we will discuss
-         * the code tomorrow.
+         * the code in the next few days.
          */
-        public static void PrintArray(int[] a)
+        public static void PrintArray<T>(T[] a)
         {
             for(int i = 0; i < a.Length - 1; i++)
-            {
-                Console.Write(a[i] + ", ");
-            }
-            Console.WriteLine(a[a.Length - 1]);
-        }
-
-        public static void PrintArray(double[] a)
-        {
-            for (int i = 0; i < a.Length - 1; i++)
-            {
-                Console.Write(a[i] + ", ");
-            }
-            Console.WriteLine(a[a.Length - 1]);
-        }
-
-        public static void PrintArray(string[] a)
-        {
-            for (int i = 0; i < a.Length - 1; i++)
-            {
-                Console.Write(a[i] + ", ");
-            }
-            Console.WriteLine(a[a.Length - 1]);
-        }
-
-        public static void PrintArray(bool[] a)
-        {
-            for (int i = 0; i < a.Length - 1; i++)
             {
                 Console.Write(a[i] + ", ");
             }

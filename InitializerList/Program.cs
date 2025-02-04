@@ -36,22 +36,13 @@ namespace InitializerList
             PrintArray(names);
         }
 
-        public static void PrintArray(double[] array)
+        public static void PrintArray<T>(T[] a)
         {
-            for(int i = 0; i < array.Length; i++)
+            for (int i = 0; i < a.Length - 1; i++)
             {
-                Console.Write(array[i] + " ");
+                Console.Write(a[i] + ", ");
             }
-            Console.WriteLine();
-        }
-
-        public static void PrintArray(string[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.Write(array[i] + " ");
-            }
-            Console.WriteLine();
+            Console.WriteLine(a[a.Length - 1]);
         }
     }
 }

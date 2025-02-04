@@ -1,5 +1,5 @@
 ﻿/*
- * Array Access
+ * Array Length
  * Pawelski
  * 10/15/2023
  * Developing Desktop Applications
